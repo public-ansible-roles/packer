@@ -1,0 +1,4 @@
+---
+# vars file for packer
+download_url: "https://releases.hashicorp.com/packer/1.4.2/packer_1.4.2_linux_amd64.zip"
+csum: "sha256:2fcbd1662ac76dc4dec381bdc7b5e6316d5b9d48e0774a32fe6ef9ec19f47213"
