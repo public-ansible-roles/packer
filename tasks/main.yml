@@ -9,5 +9,5 @@
 - name: "packer | create symbolic link to bibnary containing patch as a W.A."
   file:
     src: "/usr/local/bin/pkg/packer_linux_amd64"
-    dst: "/usr/local/bin/packer"
+    dest: "/usr/local/bin/packer"
     state: link
